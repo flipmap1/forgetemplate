@@ -1,0 +1,37 @@
+{
+  "block.terror.cursed_stone_block": "Cursed Stone",
+  "block.terror.forgotten_stone_block": "Forgotten Stone",
+  "block.terror.dark_stone_block": "Dark Stone",
+  "block.terror.silver_ore": "silver_ore",
+  "block.terror.sirenium": "sirenium",
+  "block.terror.grave": "grave",
+
+  "item.terror.copper_camera": "copper_camera",
+  "item.terror.iron_camera": "iron_camera",
+  "item.terror.netherite_camera": "netherite_camera",
+  "item.terror.sinisite_camera": "sinisite_camera",
+  "item.terror.flint_shard": "flint_shard",
+  "item.terror.grave_digger": "grave_digger",
+  "item.terror.grave_digger_tray": "grave_digger_tray",
+  "item.terror.hatchet": "hatchet",
+  "item.terror.hatchet_head": "hatchet_head",
+  "item.terror.plant_remains": "plant_remains",
+  "item.terror.plant_string": "plant_string",
+  "item.terror.raw_silver": "raw_silver",
+  "item.terror.rotten_strand": "rotten_strand",
+  "item.terror.silver_ingot": "silver_ingot",
+  "item.terror.silver_nugget": "silver_nugget",
+  "item.terror.simple_blade": "simple_blade",
+  "item.terror.fear_shard": "fear_shard",
+  "item.terror.flashlight": "flashlight",
+
+
+  "sounds.terror.sirenium_scream1": "sirenium_scream1",
+  "sounds.terror.sirenium_scream2": "sirenium_scream2",
+  "sounds.terror.sirenium_scream3": "sirenium_scream3",
+
+"key.category.terror.terror": "Terror",
+  "key.terror.peakwhilehiding": "Peak_",
+
+  "itemGroup.terror": "Terror"
+}

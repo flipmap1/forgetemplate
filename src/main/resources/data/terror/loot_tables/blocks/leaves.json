@@ -1,0 +1,83 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:stick",
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.7
+            },
+            {
+              "condition": "minecraft:block_state_property",
+              "block": "minecraft:oak_leaves",
+              "properties": {
+                "persistent": "false"
+              }
+            },
+            {
+              "condition": "minecraft:block_state_property",
+              "block": "minecraft:spruce_leaves",
+              "properties": {
+                "persistent": "false"
+              }
+            },
+            {
+              "condition": "minecraft:block_state_property",
+              "block": "minecraft:birch_leaves",
+              "properties": {
+                "persistent": "false"
+              }
+            },
+            {
+              "condition": "minecraft:block_state_property",
+              "block": "minecraft:jungle_leaves",
+              "properties": {
+                "persistent": "false"
+              }
+            },
+            {
+              "condition": "minecraft:block_state_property",
+              "block": "minecraft:acacia_leaves",
+              "properties": {
+                "persistent": "false"
+              }
+            },
+            {
+              "condition": "minecraft:block_state_property",
+              "block": "minecraft:dark_oak_leaves",
+              "properties": {
+                "persistent": "false"
+              }
+            },
+            {
+              "condition": "minecraft:block_state_property",
+              "block": "minecraft:mangrove_leaves",
+              "properties": {
+                "persistent": "false"
+              }
+            },
+            {
+              "condition": "minecraft:block_state_property",
+              "block": "minecraft:azalea_leaves",
+              "properties": {
+                "persistent": "false"
+              }
+            },
+            {
+              "condition": "minecraft:block_state_property",
+              "block": "minecraft:flowering_azalea_leaves",
+              "properties": {
+                "persistent": "false"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

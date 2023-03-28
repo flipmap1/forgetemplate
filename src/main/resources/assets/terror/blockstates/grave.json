@@ -1,0 +1,12 @@
+{
+  "variants": {
+    "grave_part=head,facing=north,occupied=false": { "model": "terror:block/grave_head", "y": 180, "uvlock": false },
+    "grave_part=head,facing=east,occupied=false": { "model": "terror:block/grave_head", "y": 270, "uvlock": false },
+    "grave_part=head,facing=south,occupied=false": { "model": "terror:block/grave_head", "y": 0, "uvlock": false },
+    "grave_part=head,facing=west,occupied=false": { "model": "terror:block/grave_head", "y": 90, "uvlock": false },
+    "grave_part=foot,facing=north,occupied=false": { "model": "terror:block/grave_foot", "y": 180, "uvlock": false },
+    "grave_part=foot,facing=east,occupied=false": { "model": "terror:block/grave_foot", "y": 270, "uvlock": false },
+    "grave_part=foot,facing=south,occupied=false": { "model": "terror:block/grave_foot", "y": 0, "uvlock": false },
+    "grave_part=foot,facing=west,occupied=false": { "model": "terror:block/grave_foot", "y": 90, "uvlock": false }
+  }
+}

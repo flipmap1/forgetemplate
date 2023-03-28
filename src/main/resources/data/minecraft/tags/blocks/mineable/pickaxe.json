@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "terror:cursed_stone_block",
+    "terror:dark_stone_block",
+    "terror:forgotten_stone_block"
+  ]
+}

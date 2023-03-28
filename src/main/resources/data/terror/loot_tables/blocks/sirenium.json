@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "terror:fear_shard"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "terror:sirenium",
+          "conditions": [
+            {
+              "condition": "minecraft:match_tool",
+              "predicate": {
+                "items": [
+                  "terror:simple_blade"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

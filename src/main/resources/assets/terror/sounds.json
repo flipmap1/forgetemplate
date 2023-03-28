@@ -1,0 +1,8 @@
+{
+  "sirenium_scream1": {
+    "sounds": ["terror:sirenium_scream1"]
+  },
+  "flashlight": {
+    "sounds": ["terror:flashlight"]
+  }
+}
