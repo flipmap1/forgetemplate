@@ -23,11 +23,6 @@ public class ModPlacedFeatures {
         HolderGetter<ConfiguredFeature<?, ?>> configuredFeatures = context.lookup(Registries.CONFIGURED_FEATURE);
 
 
-
-
-
-
-
         register(context, SIRENIUM_PLACED_KEY, configuredFeatures.getOrThrow(ModConfiguredFeatures.SIRENIUM_KEY),
                 List.of(RarityFilter.onAverageOnceEvery(1),
                         InSquarePlacement.spread(), PlacementUtils.HEIGHTMAP, BiomeFilter.biome()));
