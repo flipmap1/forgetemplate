@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:decorated",
+  "features": [
+    {
+      "type": "minecraft:single_state_feature",
+      "state": {
+        "Name": "minecraft:stone"
+      },
+      "probability": 0.1
+    }
+  ],
+  "count": {
+    "exact": 1
+  },
+  "biome": {
+    "type": "minecraft:tag",
+    "name": "minecraft:desert"
+  }
+}
